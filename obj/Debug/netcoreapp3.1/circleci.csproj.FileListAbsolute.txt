@@ -1,0 +1,13 @@
+C:\Users\bharg\source\repos\circleci\bin\Debug\netcoreapp3.1\circleci.exe
+C:\Users\bharg\source\repos\circleci\bin\Debug\netcoreapp3.1\circleci.deps.json
+C:\Users\bharg\source\repos\circleci\bin\Debug\netcoreapp3.1\circleci.runtimeconfig.json
+C:\Users\bharg\source\repos\circleci\bin\Debug\netcoreapp3.1\circleci.runtimeconfig.dev.json
+C:\Users\bharg\source\repos\circleci\bin\Debug\netcoreapp3.1\circleci.dll
+C:\Users\bharg\source\repos\circleci\bin\Debug\netcoreapp3.1\circleci.pdb
+C:\Users\bharg\source\repos\circleci\obj\Debug\netcoreapp3.1\circleci.csprojAssemblyReference.cache
+C:\Users\bharg\source\repos\circleci\obj\Debug\netcoreapp3.1\circleci.csproj.CoreCompileInputs.cache
+C:\Users\bharg\source\repos\circleci\obj\Debug\netcoreapp3.1\circleci.AssemblyInfoInputs.cache
+C:\Users\bharg\source\repos\circleci\obj\Debug\netcoreapp3.1\circleci.AssemblyInfo.cs
+C:\Users\bharg\source\repos\circleci\obj\Debug\netcoreapp3.1\circleci.dll
+C:\Users\bharg\source\repos\circleci\obj\Debug\netcoreapp3.1\circleci.pdb
+C:\Users\bharg\source\repos\circleci\obj\Debug\netcoreapp3.1\circleci.genruntimeconfig.cache
